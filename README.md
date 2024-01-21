@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aslaan Khan</h1>
-<p align="center"></p><a href="https://65ad04f432bdb753d2486186--genuine-granita-2fbd7d.netlify.app/" align="center" >MY PORTFOLIO</a></p>
+<p align="center"></p><a href="https://elegant-crepe-315c16.netlify.app/" align="center" >MY PORTFOLIO</a></p>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
