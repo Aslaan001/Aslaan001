@@ -1,22 +1,82 @@
+<!-- ⚡ Aslaan Khan | Sleek Dark-Themed GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Aslaan Khan</h1>
-<p align="center"></p><a href="https://keen-chebakia-dffabd.netlify.app/" align="center" >MY PORTFOLIO</a></p>
-<h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aslaan001&label=Profile%20views&color=0e75b6&style=flat" alt="Aslaan001" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aslaan001-7460830263" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aslaan_Khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_Aslaan001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/2k22cscys32322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@32322cscys" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://keen-chebakia-dffabd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">A Passionate Full Stack Developer & Competitve Coder from India 🇮🇳</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aslaan001&show_icons=true&locale=en&layout=compact" alt="Aslaan001" /></p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Developer Working" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aslaan001&show_icons=true&locale=en" alt="Aslaan001" /></p>
+---
+
+### 🧠 About Me
+
+- 💻 I build full-stack apps using **React, Node.js, Express, MongoDB ,Next.js ,System Design**
+- 🧠 Learning **TypeScript ,scalable backend design ,Advance CP**
+- 💬 Ask me about **React, Next.js, APIs, C++, and DSA**
+- 📫 Reach me at: **2k22cscys32322@gmail.com**
+- 🏹 Fun fact: *Debugging is my superpower & Deriving Logics is my hiddden power*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aslaan001/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/2k22cscys32322" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,django,cpp,c,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aslaan001&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslaan001&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+</p>
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Aslaan001&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+### 🎯 Goals
+
+- 🎓 Targeting **Guardian rank** on Leetcode
+- 🚀 Building tools with **Gemini/OpenAI APIs**  
+- 🌍 Contributing to **open-source**
+
+---
+
+### 💬 Quote
+
+> “Trying To Give My Best” — *Aslaan Khan*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+</p>
