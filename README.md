@@ -78,5 +78,5 @@
 > “Trying To Give My Best” — *Aslaan Khan*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
