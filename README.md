@@ -1,4 +1,7 @@
-<!-- ⚡ Aslaan Khan | Sleek Dark-Themed GitHub Profile README -->
+<!-- ⚡ Aslaan Khan | Sleek Dark-Themed GitHub Profile README -->  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aslaan001&color=blue)
 
 <h1 align="center">Hi 👋, I'm Aslaan Khan</h1>
 
@@ -62,6 +65,7 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Aslaan001&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+
 
 ---
 
