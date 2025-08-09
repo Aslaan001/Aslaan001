@@ -6,14 +6,14 @@
 <h1 align="center">Hi 👋, I'm Aslaan Khan</h1>
 
 <p align="center">
-  <a href="[https://keen-chebakia-dffabd.netlify.app/](https://aslaan-portfolio-09.onrender.com/)" target="_blank">
+  <a href="https://aslaan-portfolio-09.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
 <h3 align="center">A Passionate Full Stack Developer & Competitve Coder from India 🇮🇳</h3>
 
-<img align="right" width="400" src="https://aslaan-portfolio-09.onrender.com/" alt="Developer Working" />
+<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s" alt="Developer Working" />
 
 ---
 
