@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aslaan Khan</h1>
 
 <p align="center">
-  <a href="https://keen-chebakia-dffabd.netlify.app/" target="_blank">
+  <a href="[https://keen-chebakia-dffabd.netlify.app/](https://aslaan-portfolio-09.onrender.com/)" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
